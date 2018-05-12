@@ -31,6 +31,8 @@ description: This 1902 volume contains biographical essays on a number of notabl
   Frederic North Earl of Guilford (1766-1827), and William Morris (1834-1896), among
   other men ranging from bishops to astrologers and poets. It was called the best
   attempt at a history of English books collectors that has yet been compiled."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25000#English-Book-Collectors
 gutenberg_issued: '2008-04-06'
 gutenberg_type: Text
 identifiers:
