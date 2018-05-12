@@ -1,0 +1,47 @@
+_repo: English-Book-Collectors_25000
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Graves, Walter Stanley
+    gutenberg_agent_id: '28337'
+    url: http://www.gutenberg.org/2009/agents/28337
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fletcher, William Younger
+    alias: Fletcher, W. Y. (William Younger)
+    birthdate: 1830
+    deathdate: 1913
+    gutenberg_agent_id: '28331'
+    url: http://www.gutenberg.org/2009/agents/28331
+  editor:
+    agent_name: Pollard, Alfred W. (Alfred William)
+    aliases:
+    - Pollard, A. W. (Alfred William)
+    - Pollard, Alfred William
+    birthdate: 1859
+    deathdate: 1944
+    gutenberg_agent_id: '7475'
+    url: http://www.gutenberg.org/2009/agents/7475
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_W._Pollard
+description: This 1902 volume contains biographical essays on a number of notable
+  English bibliophiles, including Sir Thomas Smith (1513-1577), John Lord Lumley (1533-1609),
+  Frederic North Earl of Guilford (1766-1827), and William Morris (1834-1896), among
+  other men ranging from bishops to astrologers and poets. It was called the best
+  attempt at a history of English books collectors that has yet been compiled."
+gutenberg_issued: '2008-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25000'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Book collectors -- Great Britain'
+- !lcc 'Z'
+- !lcsh 'Books -- Prices'
+title: English Book Collectors
+url: http://www.gutenberg.org/ebooks/25000
